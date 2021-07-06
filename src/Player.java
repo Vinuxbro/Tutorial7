@@ -29,7 +29,7 @@ public class Player {
         System.out.println("Player Type: "+Type);
     }
 
-    void getBestPreformence(){
+    void getBestPreformence(int get){
 
     }
 
